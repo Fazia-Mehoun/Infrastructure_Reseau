@@ -1,6 +1,6 @@
 Titre du projet : Mise en place d’une infrastructure réseau sans fil pour le département d’Informatique de l’UMMTO Catégorie du projet : Étude de faisabilité
 
-Année : 2021
+Année : 2022
 
 Projet en : Solo
 
